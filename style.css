@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(159, 161, 24);
+  text-align: center;
+  justify-items: center;
+}
+.heading {
+  width: 600px;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  background-color: rgb(108, 201, 201);
+  border-radius: 15px;
+}
+.inputFields {
+  width: 600px;
+  background-color: rgb(163, 247, 219);
+  border-radius: 15px;
+}
+.allTasks {
+  margin-bottom: 10px;
+}
+#itemName {
+  width: 250px;
+  height: 30px;
+  margin-left: 2px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #000;
+  outline: none;
+  border: 2px solid rgb(12, 166, 172);
+  border-radius: 4px;
+}
+
+#addBtn {
+  width: 100px;
+  height: 33px;
+  font-size: 20px;
+  font-weight: 520;
+  outline: none;
+  background-color: rgb(66, 173, 66);
+  color: #fff;
+  border: 2px solid rgb(3, 109, 29);
+  border-radius: 5px;
+}
+.allTasks {
+  margin: 10px;
+  padding: 10px;
+}
+.allTasks h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div ul li {
+  width: 100%;
+  height: 30px;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  margin: 10px 10px 0px 10px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.tasksDetails {
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-right: 30px;
+  text-align: left;
+  float: left;
+}
+.delBtn {
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  font-weight: 520;
+  outline: none;
+  background-color: rgb(233, 94, 94);
+  color: #fff;
+  border: 2px solid rgb(3, 109, 29);
+  border-radius: 5px;
+  float: right;
+  margin-right: 40px;
+}
