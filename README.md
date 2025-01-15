@@ -8,6 +8,7 @@ it is also helpfull to improve productivity
 ## features
 
 >You can add new tasks
+
 >You can also delete tasks after completion
 ## some images
 ![home](./todo_app/images/home.png)
