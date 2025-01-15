@@ -11,3 +11,5 @@ it is also helpfull to improve productivity
 >You can also delete tasks after completion
 ## some images
 ![home](./todo_app/images/home.png)
+![addTasks](./todo_app/images/tasks.png)
+![DeleteTasls](./todo_app/images/delete%20tasks.png)
